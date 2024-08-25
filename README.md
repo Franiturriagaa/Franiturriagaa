@@ -1,4 +1,12 @@
-## Hi there, I'm FranDEV👋
+## Buenasss, soy Fran, y estoy estudiando ciencia de datos!!!
+
+## Sobre mí
+
+Me llamo Francisco Iturriaga, tengo 22 años, y estudio ciencia de datos, me gusta mucho la programacion y el mundo de la computacion en general.
+
+![GitHub followers](https://img.shields.io/github/followers/franiturriagaa)
+
+
 
 <!--
 **Franiturriagaa/Franiturriagaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
