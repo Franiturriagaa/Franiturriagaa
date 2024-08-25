@@ -1,10 +1,12 @@
-## Buenasss, soy Fran, y estoy estudiando ciencia de datos!!!
+## Buenasss, soy Fran 👋
 
 ## Sobre mí
 
 Me llamo Francisco Iturriaga, tengo 22 años, y estudio ciencia de datos, me gusta mucho la programacion y el mundo de la computacion en general.
 
-![GitHub followers](https://img.shields.io/github/followers/franiturriagaa)
+![GitHub followers](https://img.shields.io/github/followers/franiturriagaa) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYCm4FdTeqUVsZ6EtkKQ-Hg)
+
+
 
 
 
