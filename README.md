@@ -10,6 +10,10 @@ Me llamo Francisco Iturriaga, tengo 22 años, y estudio ciencia de datos. me gus
 
 ⚡Me gustan tambien los videojuegos, el cine y el arte en general. 
 
+### Tecnologías
+
+Python, SQL, Power BI, Visual Studio Code.
+
 ## About me
 
 My name is Francisco Iturriaga, I'm 22 years old, and I study data science. I really like programming and the computer world in general.
@@ -19,6 +23,10 @@ My name is Francisco Iturriaga, I'm 22 years old, and I study data science. I re
 ⚡I like to do sports, such as soccer, basketball, and anything that has to do with exercising.
 
 ⚡I also like video games, movies and art in general. 
+
+### Technologies
+
+Python, SQL, Power BI, Visual Studio Code.
 
 ![GitHub followers](https://img.shields.io/github/followers/franiturriagaa) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYCm4FdTeqUVsZ6EtkKQ-Hg)
 <!--
