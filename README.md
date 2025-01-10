@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Me llamo Francisco Iturriaga, tengo 22 años, y estudio ciencia de datos. me gusta mucho la programacion y el mundo de la computacion en general.
+Me llamo Francisco Iturriaga, tengo 23 años, y estudio ciencia de datos. me gusta mucho la programacion y el mundo de la computacion en general.
 
 ⚡ Tambien me gusta mucho la Fisica, la Geografia, las ciencias en general. 
 
@@ -23,7 +23,7 @@ Instagram: franiturriaga.g
 
 ## About me
 
-My name is Francisco Iturriaga, I'm 22 years old, and I study data science. I really like programming and the computer world in general.
+My name is Francisco Iturriaga, I'm 23 years old, and I study data science. I really like programming and the computer world in general.
 
 ⚡ I also like physics, geography, science in general. 
 
