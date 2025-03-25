@@ -6,11 +6,10 @@ Me llamo Francisco Iturriaga, tengo 23 años, y estudié ciencia de datos. me gu
 
 ### Tecnologías
 
-Python, SQL, Power BI, Visual Studio Code.
+Python, SQL, Power BI, HTML, CSS, Javascript, C, Docker, Hadoop, Visual Studio Code.
 
 ### Contacto
 
-Mail: franiturriagaa25@gmail.com
-Instagram: franiturriaga.g
+Mail: itu_fran@hotmail.com 
 
 
