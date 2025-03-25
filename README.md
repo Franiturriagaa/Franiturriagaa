@@ -1,4 +1,4 @@
-# Buenasss, soy Fran 👋 - Heyyy, I'm Fran
+# Buenasss, soy Fran 👋
 
 ## Sobre mí
 
